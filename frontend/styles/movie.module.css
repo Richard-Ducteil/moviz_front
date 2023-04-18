@@ -1,0 +1,24 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 220px;
+    margin: 20px;
+}
+
+.image {
+    width: 220px;
+    border-radius: 10px 10px 0 0;
+}
+
+.textContainer {
+    margin: 10px 0;
+}
+
+.name {
+    font-weight: 600;
+}
+
+.vote {
+    font-size: 12px
+}
